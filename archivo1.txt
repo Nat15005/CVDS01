@@ -1,2 +1,3 @@
 ahora si tiene texto jiji
 ta chevere esta clase :)
+tocaba hacerle git config
